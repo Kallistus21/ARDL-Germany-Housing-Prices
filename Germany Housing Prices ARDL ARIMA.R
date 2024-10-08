@@ -1,4 +1,3 @@
-setwd("C:\\Users\\Piotr\\Downloads") #set your own path 
 Sys.setenv(LANG = "en")
 options(scipen=100)
 library(lmtest)
