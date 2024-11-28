@@ -9,9 +9,9 @@ The indeptendent variables include:
 The dependent variable, "Real House Prices" is an index with the year 2015 being the year of reference (=100).
 The indeptendent variables include:
 
-**GDP per capita**
-**Unemployment**
-**Inflation Rate** 
-**Interest Rate**
-**Population**
-**Permits issued index** 
+- GDP per capita
+- Unemployment
+- Inflation Rate
+- Interest Rate
+- Population
+- Permits issued index
