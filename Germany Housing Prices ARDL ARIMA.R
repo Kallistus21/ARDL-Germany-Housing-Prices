@@ -472,20 +472,5 @@ summary(Final_ARDL)
 summary(arima_model) # arima doesn't have R squared because its a prediction
 
 
-#przed dodaniem na gita:
-#1. dodac functiondf2 na git
-#2. dodac .csv na git
-#3. moze opisac jakos inaczej komentarze? Albo opisac readme zamiast w komentarzach?
-#4. dodać R squared i adjusted r squared oprocz aic i bic
-#5. poprawic interpretacje lagów
-# https://www.youtube.com/watch?v=VtijB_eFp5o 51:25
 
-#ok a wiec tak z tego co rozumiem: 
   
-#Long-Term Multiplier for L(Real_House_Prices, 2) ≈0.9638 ZLE, jak mopze byc lt multi dla 1 laga?
-Long-Term Multiplier for L(Real_House_Prices, 1) ≈0.4930# to samo co wyzej  
-Long-Term Multiplier for GDP_per_capita: ≈0.4405 # to niby dobrze le to jest po prostu ST=LT bo nie ma lagow
-Long-Term Multiplier for Interest_rate: ≈−0.0775\approx -0.0775≈−0.0775# to samo
-Long-Term Multiplier for L(Permits_issued, 1): ≈0.0715  #zle, nie ma LTM dla laga
-  
-#6. na gita wstawic long term multiplier, bo jest w dokumencie ale nie tutaj
